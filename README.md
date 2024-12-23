@@ -7,7 +7,7 @@ This script is intended for educational purposes and ethical security testing on
 
 ## 🚀 Usage
 
-1. Make sure you have Python installed on your system.
+1. Make sure you have Python installed on your operating system with all the required packages.
 2. Run the app:
    ```bash
    python main.py
